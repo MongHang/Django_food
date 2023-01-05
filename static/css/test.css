@@ -1,0 +1,11 @@
+.container{
+    margin: 50px auto;
+    padding: 50px;
+    background: rgba(250, 247, 240, 0.7);
+    border-radius: 10px;
+}
+
+body{
+    background: url("../images/coffee.jpg"); /* https://www.foodiesfeed.com/free-food-photo/espresso-coffee-on-a-wooden-table/download/ */
+    background-size: cover;
+}
